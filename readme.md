@@ -3,11 +3,8 @@
 </div>  
   
 
-### <div align="center">I'm Fahmi, a full-time Backend Dev in [Nusantech](https://nusantech.com/)</div>  
-  
-
-- 🔭 I’m currently working on [Nusantech](https://nusantech.com/)  
-  
+### <div align="center">I'm Fahmi, a full-time Backend Dev</div>  
+ 
 
 - 🌱 I'm currently developing my skills to be more advanced.  
   
@@ -75,7 +72,7 @@
 <a href="https://twitter.com/fahmidyt_" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/fmidyt" target="_blank">
+<a href="https://instagram.com/#" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
